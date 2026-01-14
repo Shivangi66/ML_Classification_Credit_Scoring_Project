@@ -1,6 +1,8 @@
 # ML_Classification_Credit_Scoring_Project
 # Credit Scoring Classification Project
 
+APP Link on StreamLit - https://mlclassificationcreditscoringproject-shivangi.streamlit.app/
+
 ## Overview
 This project is a complete machine learning pipeline for credit scoring, including data preprocessing, feature engineering, model training, evaluation, and deployment via a Streamlit web app. The goal is to predict the likelihood of loan default using customer, loan, and bureau data.
 
